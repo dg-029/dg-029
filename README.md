@@ -6,11 +6,13 @@
  </abc>
 </h3>
 
-### I am Disha Gupta.
-- 3rd year Undergrad student at IIT BHU, Varanasi.
+### I am Disha Gupta 😃.
+- Junior Undergrad student at IIT BHU, Varanasi.
 - Budding Software Developer.
 - ML Enthusiast.
 - Other interests include Computer vision, Digital ECE.
+- My hobbies include listening to music🎵, dancing💃 and watching movies🎥.
+
 
 >
 
