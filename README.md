@@ -1,4 +1,10 @@
 ### Hi there 👋
+<h3 align="left">
+ <abc>
+  <br>
+    <img src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" alt="tenor GIF" width="500" height="400">
+ </abc>
+</h3>
 
 ### I am Disha Gupta.
 - 3rd year Undergrad student at IIT BHU, Varanasi.
